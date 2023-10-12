@@ -1,6 +1,6 @@
 # qr_reader
 
-Aplicación para leer Codidigos QR utilizando SQFLite para almacenar un historial:
+Aplicación para leer Códigos QR utilizando SQFLite para almacenar un historial:
 
 ### Topicos de la aplicacion: 
 - Lanzar la cámara y leer un código QR
